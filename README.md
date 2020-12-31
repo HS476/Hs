@@ -1,0 +1,2 @@
+# Hs
+Symmetrical
